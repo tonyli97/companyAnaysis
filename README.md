@@ -1,4 +1,4 @@
 # ml_fa
-Machine Learning for Fundamental Analysis of Equities
+Machine Learning for Company Equities Analysis
 
-www.mlforfundamentals.com
+
