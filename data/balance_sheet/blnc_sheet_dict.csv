@@ -1,0 +1,95 @@
+variable name,data type,variable description
+ch,num,ch -- cash
+chs,num,chs -- cash and deposits - segregated
+che,num,che -- cash and short-term investments
+rect,num,rect -- receivables total
+arb,num,"arb -- accounts receivable/debtors - brokers, dealers, and clearing organizations"
+arc,num,arc -- accounts receivable/debtors - customer
+artfs,num,artfs -- accounts receivable/debtors - total
+iasti,num,iasti -- investment assets - securities - total (insurance)
+iaui,num,iaui -- investment assets (insurance) - unlisted securities - total
+iseq,num,iseq -- investment securities - equity
+istc,num,istc -- investment securities - total (cost)
+isut,num,isut -- investment securities - unlisted - total
+tdst,num,tdst -- trading/dealing account securities - total
+islt,num,islt -- investment securities - listed - total
+iseq,num,iseq -- investment securities - equity
+iati,num,iati -- investment assets - total (insurance)
+rati,num,rati -- reinsurance assets - total (insurance)
+txr,num,txr -- income tax refund
+xpp,num,xpp -- prepaid expenses
+aco,num,aco -- current assets other total
+act,num,act -- current assets - total
+gdwl,num,gdwl -- goodwill
+ao,num,ao -- assets - other
+txndbl,num,txndbl -- net deferred tax liability
+rvti,num,rvti -- reserves - total
+intan,num,intan -- intangible assets - total
+intano,num,intano -- other intangibles
+invt,num,invt -- inventories - total
+ivpt,num,ivpt -- investments - permanent - total
+ppegt,num,"ppegt -- property, plant and equipment - total (gross)"
+ppenb,num,"ppenb -- property, plant, and equipment buildings (net)"
+ppenc,num,"ppenc -- property, plant, and equipment construction in progress (net)"
+ppenme,num,"ppenme -- property, plant, and equipment machinery and equipment (net)"
+ppent,num,"ppent -- property, plant and equipment - total (net)"
+ret,num,ret -- total re property
+at,num,at -- assets - total
+ap,num,ap -- accounts payable - trade
+apb,num,"apb -- accounts payable/creditors - brokers, dealers, and clearing organizations"
+apc,num,apc -- accounts payable/creditors - customer
+apofs,num,apofs -- accounts payable/creditors - other - fs
+drc,num,drc -- deferred revenue current
+txp,num,txp -- income taxes payable
+xacc,num,xacc -- accrued expenses
+aedi,num,aedi -- accrued expenses and deferred income
+dlc,num,dlc -- debt in current liabilities - total
+lco,num,lco -- current liabilities other total
+drlt,num,drlt -- deferred revenue long-term
+rlt,num,rlt -- reinsurance liabilities - total
+dclo,num,dclo -- debt capitalized lease obligations
+dcom,num,dcom -- deferred compensation
+dcpstk,num,dcpstk -- convertible debt and preferred stock
+dcs,num,dcs -- debt consolidated subsidiary
+dcvsr,num,dcvsr -- debt senior convertible
+dcvt,num,dcvt -- debt - convertible
+dd,num,dd -- debt debentures
+lo,num,lo -- liabilities - other - total
+cld2,num,cld2 -- capitalized leases - due in 2nd year
+cld3,num,cld3 -- capitalized leases - due in 3rd year
+cld4,num,cld4 -- capitalized leases - due in 4th year
+cld5,num,cld5 -- capitalized leases - due in 5th year
+txndba,num,txndba -- net deferred tax asset
+clt,num,clt -- contingent liabilities - total
+dd1,num,dd1 -- long-term debt due in one year
+dd2,num,dd2 -- debt due in 2nd year
+dd3,num,dd3 -- debt due in 3rd year
+dd4,num,dd4 -- debt due in 4th year
+dd5,num,dd5 -- debt due in 5th year
+dxd2,num,dxd2 -- debt (excl capitalized leases) - due in 2nd year
+dxd3,num,dxd3 -- debt (excl capitalized leases) - due in 3rd year
+dxd4,num,dxd4 -- debt (excl capitalized leases) - due in 4th year
+dxd5,num,dxd5 -- debt (excl capitalized leases) - due in 5th year
+dlto,num,dlto -- other long-term debt
+dltt,num,dltt -- long-term debt - total
+dptb,num,dptb -- deposits - total - banks
+dptc,num,dptc -- deposits - total - customer
+mrc1,num,mrc1 -- rental commitments minimum 1st year
+mrc2,num,mrc2 -- rental commitments minimum 2nd year
+mrc3,num,mrc3 -- rental commitments minimum 3rd year
+mrc4,num,mrc4 -- rental commitments minimum 4th year
+mrc5,num,mrc5 -- rental commitments minimum 5th year
+mrcta,num,mrcta -- thereafter portion of leases
+ceq,num,ceq -- common/ordinary equity - total
+ceql,num,ceql -- common equity liquidation value
+ceqt,num,ceqt -- common equity tangible
+lt,num,lt -- liabilities - total
+seq,num,seq -- stockholders' equity - total
+lse,num,lse -- liabilities and stockholders equity - total
+wcap,num,wcap -- working capital (balance sheet)
+bkvlps,num,bkvlps -- book value per share
+icapt,num,icapt -- invested capital - total
+npat,num,npat -- nonperforming assets - total
+lcat,num,lcat -- loans/claims/advances - total
+pstk,num,pstk -- preferred/preference stock (capital) - total
+re,num,re -- retained earnings

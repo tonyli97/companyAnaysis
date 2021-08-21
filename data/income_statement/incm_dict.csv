@@ -1,0 +1,57 @@
+variable name,data type,variable description
+revt,num,revt -- revenue - total
+nfsr,num,nfsr -- non-financial services revenue
+sale,num,sale -- sales/turnover (net)
+xsga,num,"xsga -- selling, general and administrative expense"
+xrent,num,xrent -- rental expense
+xrd,num,xrd -- research and development expense
+xlr,num,xlr -- staff expense - total
+stkco,num,stkco -- stock compensation expense
+batr,num,batr -- benefits assumed - total
+bct,num,bct -- benefits and claims - total (insurance)
+bctr,num,bctr -- benefits ceded - total
+cogs,num,cogs -- cost of goods sold
+rcp,num,rcp -- restructuring costs pretax
+patr,num,patr -- premiums assumed - total
+tie,num,tie -- interest expense total (financial services)
+tii,num,tii -- interest income total (financial services)
+xint,num,xint -- interest and related expense - total
+xnitb,num,xnitb -- expense - noninterest - total (bank)
+xopr,num,xopr -- operating expenses total
+xoprar,num,xoprar -- operatings expenses - as reported
+xpr,num,xpr -- pension and retirement expense
+xuwti,num,xuwti -- underwriting expense - total
+xt,num,xt -- expense - total
+gp,num,gp -- gross profit (loss)
+oibdp,num,oibdp -- operating income before depreciation
+oiadp,num,oiadp -- operating income after depreciation
+opeps,num,opeps -- earnings per share from operations
+opili,num,opili -- operating income - life
+opiti,num,opiti -- operating income - total
+pi,num,pi -- pretax income
+initb,num,initb -- income - non-interest - total (bank)
+ib,num,ib -- income before extraordinary items
+ibki,num,ibki -- investment banking income
+idit,num,idit -- interest and related income - total
+isgt,num,isgt -- investment securities - gain (loss) - total
+ivi,num,ivi -- investment income - total (insurance)
+li,num,li -- leasing income
+ipti,num,ipti -- insurance premiums - total (insurance)
+ptbl,num,ptbl -- premiums - total (business line)
+txdi,num,txdi -- income taxes - deferred
+txds,num,txds -- deferred taxes-state
+txfed,num,txfed -- income taxes federal
+txfo,num,txfo -- income taxes - foreign
+txt,num,txt -- income taxes - total
+ni,num,ni -- net income (loss)
+niint,num,niint -- net interest income
+niit,num,niit -- net interest income (tax equivalent)
+nit,num,nit -- net item - total
+nits,num,nits -- net income - total (statutory)
+spce,num,spce -- s&p core earnings
+epsfi,num,epsfi -- earnings per share (diluted) including extraordinary items
+epspx,num,epspx -- earnings per share (basic) excluding extraordinary items
+cga,num,cga -- capital gains - after-tax
+cgti,num,cgti -- capital gains - total (insurance)
+citotal,num,citotal -- comprehensive income - total
+nim,num,nim -- net interest margin

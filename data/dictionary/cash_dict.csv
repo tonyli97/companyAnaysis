@@ -1,0 +1,55 @@
+variable name,data type,variable description
+ibc,num,ibc -- income before extraordinary items (cash flow)
+depc,num,depc -- depreciation and depletion (cash flow)
+dpc,num,dpc -- depreciation and amortization (cash flow)
+tdc,num,tdc -- deferred income taxes - net (cash flow)
+txbco,num,txbco -- excess tax benefit stock options - cash flow operating
+txbcof,num,txbcof -- excess tax benefit of stock options - cash flow financing
+txdc,num,txdc -- deferred taxes (cash flow)
+recch,num,recch -- accounts receivable decrease (increase)
+txach,num,txach -- income taxes accrued increase/(decrease)
+txpd,num,txpd -- income taxes paid
+aoloch,num,aoloch -- assets and liabilities other net change
+apalch,num,apalch -- accounts payable and accrued liabilities increase/(decrease)
+aqc,num,aqc -- acquisitions
+capx,num,capx -- capital expenditures
+esubc,num,esubc -- equity in net loss earnings
+fopo,num,fopo -- funds from operations other
+fopox,num,fopox -- funds from operations - other excluding option tax benefit
+fopt,num,fopt -- funds from operations total
+intpn,num,intpn -- interest paid net
+invch,num,invch -- inventory decrease (increase)
+oancf,num,oancf -- operating activities net cash flow
+capxv,num,"capxv -- capital expend property, plant and equipment schd v"
+itcc,num,itcc -- investment tax credit - net (cash flow) - utility
+ivaco,num,ivaco -- investing activities other
+ivch,num,ivch -- increase in investments
+ivstch,num,ivstch -- short-term investments change
+prstkcc,num,prstkcc -- purchase of common stock (cash flow)
+prstkpc,num,prstkpc -- purchase of preferred/preference stock (cash flow)
+sppiv,num,"sppiv -- sale of property, plant and equipment and investments gain (loss)"
+siv,num,siv -- sale of investments
+sppe,num,sppe -- sale of property
+uaoloch,num,uaoloch -- other assets and liabilities - net change (statement of cash flows)
+ivncf,num,ivncf -- investing activities net cash flow
+dlcch,num,dlcch -- current debt changes
+dltis,num,dltis -- long-term debt issuance
+dltr,num,dltr -- long-term debt reduction
+exre,num,exre -- exchange rate effect
+fiao,num,fiao -- financing activities other
+scstkc,num,scstkc -- sale of common stock (cash flow)
+spstkc,num,spstkc -- sale of preferred/preference stock (cash flow)
+sstk,num,sstk -- sale of common and preferred stock
+fincf,num,fincf -- financing activities net cash flow
+chech,num,chech -- cash and cash equivalents increase/(decrease)
+cdvc,num,cdvc -- cash dividends on common stock (cash flow)
+dv,num,dv -- cash dividends (cash flow)
+fsrct,num,fsrct -- sources of funds total
+fuset,num,fuset -- uses of funds total
+tsafc,num,tsafc -- total sources/applications of funds (cash flow)
+utfdoc,num,utfdoc -- total funds from operations (cash flow)
+utfosc,num,utfosc -- total funds from outside sources (cash flow)
+uwkcapc,num,uwkcapc -- working capital (source) - decrease (increase) (cash flow)
+unwcc,num,unwcc -- working capital (use) - increase (decrease) (cash flow)
+wcapc,num,wcapc -- working capital change other increase/(decrease)
+wcapch,num,wcapch -- working capital change total
